@@ -14,7 +14,6 @@
 # Opening inside vim
 
 * :tabnew file
-* :tabf wildcard
 * Ctrl-w gf
 * Ctrl-w T
 

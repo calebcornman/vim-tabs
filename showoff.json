@@ -1,1 +1,6 @@
-{ "name": "Vim Tabs", "sections": [ {"section":"one"} ]}
+{
+  "name": "Vim Tabs",
+  "description": "Introduction to Vim Tabs",
+  "sections": [ {"section":"one"} ]
+}
+

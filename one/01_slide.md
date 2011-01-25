@@ -1,4 +1,7 @@
-!SLIDE 
+!SLIDE center
+
+![Hashrocket](hashrocket_logo_horizontal_small.jpg)
+
 # Vim Tabs #
 
 !SLIDE bullets incremental
@@ -34,7 +37,9 @@
 
 * :tabm position
 
-!SLIDE
+!SLIDE bullets center smaller
+
+![Hashrocket](hashrocket_logo_horizontal_small.jpg)
 
 # Thanks!
 # caleb@hashrocket.com
